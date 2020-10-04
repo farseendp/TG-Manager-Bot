@@ -103,3 +103,6 @@ The following env variables are supported:
  accesses, and the way python asynchronous calls work.
  - `BAN_STICKER`: Which sticker to use when banning people.
  - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/jerinjohny-ktnm/)
+
