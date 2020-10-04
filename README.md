@@ -2,6 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=103)](https://github.com/jerinjohny-ktnm/TG-Manager-Bot/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/jerinjohny-ktnm/TG-Manager-Bot/graphs/commit-activity)
 
 
 <p align="center">
@@ -28,6 +29,8 @@ Can be found in Telegram at [Phantom Ser](https://telegram.dog/phantomserbot)
 
 ### Click Below Image to Deploy
 [![Deploy](https://telegra.ph/file/dd13685fb562be633abae.jpg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/TG-Manager-Bot.git)
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 
