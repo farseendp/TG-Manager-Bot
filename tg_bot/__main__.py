@@ -38,7 +38,7 @@ HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id={}).
+[THIS MAHN](tg://user?id={}).
 
 HIT HELP FOR COMMANDS  /help
 
@@ -46,7 +46,7 @@ I AM COMPLETELY OPEN SOURCE
 
 MY SOURCE CODE IS AVAILABLE TO YOU
 
-[HERE](https://github.com/jerinjohny-ktnm/TG-Manager-Bot)
+[PHANTOM SOURCE](https://github.com/jerinjohny-ktnm/TG-Manager-Bot)
 
 """
 
