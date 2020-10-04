@@ -1,7 +1,7 @@
 ### Phantom Ser // http://www.telegram.dog/phantomserbot
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)  
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
 
 <p align="center">
