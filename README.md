@@ -3,6 +3,17 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
+
+<p align="center">
+  <a href="https://github.com/jerinjohny-ktnm/TG-Manager-Bot/fork">
+    <img src="https://img.shields.io/github/forks/jerinjohny-ktnm/TG-Manager-Bot?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/jerinjohny-ktnm/TG-Manager-Bot">
+    <img src="https://img.shields.io/github/stars/jerinjohny-ktnm/TG-Manager-Bot?style=social">
+  </a>
+</p>
+
 ***⚠️USE THIS REPO AT YOUR OWN RISK***
 
 
