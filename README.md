@@ -26,14 +26,13 @@ Can be found at Telegram [Phantom Ser](https://telegram.dog/phantomserbot)
 
 
 
-
-[![phantom](https://telegra.ph/file/72b6a2032bd19642ff759.jpg)]
-
+### Click Below Image to Deploy
 
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/TG-Manager-Bot.git)
+
+[![Deploy](https://telegra.ph/file/dd13685fb562be633abae.jpg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/TG-Manager-Bot.git)
 
 
 
