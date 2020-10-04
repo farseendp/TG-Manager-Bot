@@ -8,6 +8,10 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
 
 
 
+Can be found at Telegram [Phantom Ser](https://telegram.dog/phantomserbot)
+
+
+
 
 [![phantom](https://telegra.ph/file/72b6a2032bd19642ff759.jpg)]
 
