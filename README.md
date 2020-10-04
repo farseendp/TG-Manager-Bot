@@ -22,7 +22,7 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
 
 
 
-Can be found at Telegram [Phantom Ser](https://telegram.dog/phantomserbot)
+Can be found in Telegram at [Phantom Ser](https://telegram.dog/phantomserbot)
 
 
 
