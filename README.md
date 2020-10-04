@@ -27,11 +27,6 @@ Can be found at Telegram [Phantom Ser](https://telegram.dog/phantomserbot)
 
 
 ### Click Below Image to Deploy
-
-
-
-
-
 [![Deploy](https://telegra.ph/file/dd13685fb562be633abae.jpg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/TG-Manager-Bot.git)
 
 
