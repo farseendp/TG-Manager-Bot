@@ -29,7 +29,7 @@ Can be found in Telegram at [Phantom Ser](https://telegram.dog/phantomserbot)
 
 
 
-### Click Below Image to Deploy
+### The easy way to deploy,Click Below Image
 [![Deploy](https://telegra.ph/file/dd13685fb562be633abae.jpg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/TG-Manager-Bot.git)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -46,7 +46,7 @@ This repo was just revamped to suit an Anime-centric community. All original cre
 
 
 
-### Configuration
+### Configuration, The hard way
 
 
 There are two possible ways of configuring your bot: a config.py file, or ENV variables.
