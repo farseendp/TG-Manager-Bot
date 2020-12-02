@@ -30,7 +30,7 @@ Can be found in Telegram at [Phantom Ser](https://telegram.dog/phantomserbot)
 
 
 ### The easy way to deploy,Click Below Image
-[![Deploy](https://telegra.ph/file/dd13685fb562be633abae.jpg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/TG-Manager-Bot.git)
+[![Deploy](https://telegra.ph/file/dd13685fb562be633abae.jpg)](https://github.com/farseendp/TG-Manager-Bot)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
